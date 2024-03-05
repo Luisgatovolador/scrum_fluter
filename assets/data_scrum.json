@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Backlog de Producto",
+    "description": "Una lista priorizada de todas las funcionalidades y requisitos necesarios para el producto, sirviendo como la fuente única de requisitos para cualquier cambio en el producto.",
+    "image": "assets/product-backlog.png",
+    "example": "Como Propietario de Producto, necesito mantener un Backlog de Producto claro y actualizado para comunicarme eficazmente con los interesados y el equipo de desarrollo."
+  },
+  {
+    "name": "Sprint",
+    "description": "Un periodo de tiempo limitado durante el cual el equipo desarrolla un incremento potencialmente entregable del producto.",
+    "image": "assets/sprint.png",
+    "example": "En nuestro sprint de dos semanas, nos comprometemos a completar las historias de usuario seleccionadas, asegurando que cumplan con nuestra Definición de Listo."
+  },
+  {
+    "name": "Scrum Diario",
+    "description": "Un evento diario de 15 minutos donde el equipo sincroniza actividades y planifica el trabajo para las próximas 24 horas.",
+    "image": "assets/daily_scrum.png",
+    "example": "Durante el Scrum Diario, cada miembro del equipo comparte lo que logró, lo que planea hacer y los obstáculos que enfrenta."
+  },
+  {
+    "name": "Propietario de Producto",
+    "description": "La persona responsable de maximizar el valor del producto y del trabajo del equipo de desarrollo.",
+    "image": "assets/product_owner.png",
+    "example": "Como Propietario de Producto, colaboro con los interesados para entender sus necesidades y priorizo el Backlog de Producto para entregar el máximo valor."
+  },
+  {
+    "name": "Scrum Master",
+    "description": "El líder del equipo Scrum, responsable de garantizar la comprensión y el cumplimiento de Scrum.",
+    "image": "assets/scrum_master.png",
+    "example": "Como Scrum Master, facilito los eventos de Scrum, elimino obstáculos y entreno al equipo para mejorar continuamente."
+  },
+  {
+    "name": "Planificación del Sprint",
+    "description": "Un evento donde el equipo colabora para definir el trabajo a realizar en el Sprint.",
+    "image": "assets/sprint_planning.png",
+    "example": "Durante la Planificación del Sprint, el equipo revisa el Backlog de Producto, selecciona elementos y crea un plan para el Sprint."
+  },
+  {
+    "name": "Revisión del Sprint",
+    "description": "Un evento donde el equipo y los interesados revisan el trabajo completado y colaboran en las siguientes acciones.",
+    "image": "assets/sprint_review.png",
+    "example": "En nuestra Revisión del Sprint, demostramos el trabajo a los interesados, recopilamos comentarios y discutimos cambios necesarios."
+  },
+  {
+    "name": "Retrospectiva del Sprint",
+    "description": "Un evento donde el equipo se autoevalúa y planifica mejoras para el próximo Sprint.",
+    "image": "assets/Sprint-Retrospective.png",
+    "example": "Durante nuestra Retrospectiva del Sprint, reflexionamos sobre lo sucedido, identificamos áreas de mejora y nos comprometemos a cambios para el próximo Sprint."
+  },
+  {
+    "name": "Definición de Listo",
+    "description": "Un acuerdo sobre lo que significa que una tarea esté completa y lista para ser entregada.",
+    "image": "assets/definition_of_done.png",
+    "example": "Nuestra Definición de Listo incluye cumplir con criterios de aceptación, revisión de código, pruebas automatizadas y documentación."
+  },
+  {
+    "name": "Historia de Usuario",
+    "description": "Una descripción breve de una funcionalidad contada desde la perspectiva del usuario.",
+    "image": "assets/histo.png",
+    "example": "Como usuario, quiero iniciar sesión con mi correo electrónico y contraseña para acceder a funciones personalizadas."
+  }
+]
